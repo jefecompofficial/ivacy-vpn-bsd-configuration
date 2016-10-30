@@ -1,0 +1,3 @@
+#! /bin/sh
+
+/usr/local/sbin/openvpn --config openvpn-Ivacy-udp.ovpn
